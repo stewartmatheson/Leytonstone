@@ -1,0 +1,8 @@
+/Users/stewartmatheson/Documents/Leytonstone/GameFacade.cpp:13: error: return type specification for constructor invalid
+/Users/stewartmatheson/Documents/Leytonstone/GameFacade.cpp:13: error: definition of implicitly-declared 'GameFacade::GameFacade()'
+/Users/stewartmatheson/Documents/Leytonstone/GameFacade.cpp:13: error: declaration of 'GameFacade::GameFacade()' throws different exceptions
+/Users/stewartmatheson/Documents/Leytonstone/GameFacade.h:14: error: than previous declaration 'GameFacade::GameFacade() throw ()'
+/Users/stewartmatheson/Documents/Leytonstone/GameFacade.cpp:23: error: declaration of 'void GameFacade::step()' outside of class is not definition
+/Users/stewartmatheson/Documents/Leytonstone/GameFacade.cpp:24: error: expected unqualified-id before '{' token
+/Users/stewartmatheson/Documents/Leytonstone/GameFacade.cpp:28: error: declaration of 'void GameFacade::update()' outside of class is not definition
+/Users/stewartmatheson/Documents/Leytonstone/GameFacade.cpp:29: error: expected unqualified-id before '{' token

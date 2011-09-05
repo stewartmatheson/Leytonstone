@@ -1,0 +1,3 @@
+/Users/stewartmatheson/Documents/Leytonstone/LevelOne.cpp:12: error: ISO C++ forbids declaration of 'CreatePlayers' with no type
+/Users/stewartmatheson/Documents/Leytonstone/LevelOne.cpp:12: error: prototype for 'int LevelOne::CreatePlayers(Model*)' does not match any in class 'LevelOne'
+/Users/stewartmatheson/Documents/Leytonstone/LevelOne.h:18: error: candidate is: virtual void LevelOne::CreatePlayers(ModelIterator&)
